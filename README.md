@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://github.com/anuditverma/anuditverma/blob/master/Anudit-Coffee.png" alt="Anudit's Avatar with a Coffee Mug"/>
 
-<!--
-**anuditverma/anuditverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anudit 👋
 
-Here are some ideas to get you started:
+- :octocat: I am an avid open source enthusiast, contributor, and developer living in Long Beach, California, US. I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: I am pursuing a Master of Science in Computer Science degree from California State University Long Beach.
+
+- :books: I enjoy reading books. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/year_in_books/2018/82771249">here</a>. Make sure to add some of them in your future reading list.
+
+- :seedling: And, I am just grateful to have access to clean potable water.
+
+- :mailbox_with_mail: You can reach me at <a target="_blank" href="mailto:contact@anudit.in">contact@anudit.in</a>
+
+- :rocket: Google <a target="_blank" href="https://www.google.com/search?q=Anudit+Verma">Anudit Verma</a> to know more about me and my work. 
