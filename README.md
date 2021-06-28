@@ -2,7 +2,7 @@
 
 # Hi, I'm Anudit 👋
 
-- :octocat: I am an avid open source enthusiast, contributor, and developer living in Long Beach, California, US. I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
+- :octocat: I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and a Community Enabler living in Long Beach, California, US. I am a seasoned Ethical Hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
 
 - :mortar_board: I am pursuing a Master of Science in Computer Science degree from California State University Long Beach.
 
