@@ -1,8 +1,8 @@
-<img align="right" src="https://github.com/anuditverma/anuditverma/blob/master/Anudit-Coffee.png" alt="Anudit's Avatar with a Coffee Mug"/>
-
 # Hi, I'm Anudit 👋
 
-- :octocat: I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and a Community Enabler living in Sunnyvale, California, US. I am a seasoned Ethical Hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
+<img align="right" src="https://github.com/anuditverma/anuditverma/blob/master/Anudit-Coffee.png" alt="Anudit's Avatar with a Coffee Mug"/>
+
+- :octocat: I am a Full Stack Software Engineer, Designer, Mentor, Open-Source Evangelist and a Community Enabler living in Sunnyvale, California, US. I am a seasoned Ethical Hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
 
 - :mortar_board: I have a Master's Degree in Computer Science from California State University Long Beach. I obtained my Bachelor of Technology Degree in Computer Science & Engineering from the University School of Information, Communication & Technology (USICT) in New Delhi, India.
 
